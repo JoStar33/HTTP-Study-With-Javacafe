@@ -129,7 +129,7 @@ http://google.com/tools.html/#drills
 URL은 상대 URL과 절대 URL 두 가지로 나뉘는데요. 절대 URL과 상대 URL입니다.
 
 - 절대 URL : 리소스에 접근하는데 필요한 모든 정보를 가지고 있습니다.
-- 상대 URL : URL을 짧게 표기하는 방식이다. 기저(base)라고 하는 다른 URL을 사용합니다.
+- 상대 URL : URL을 짧게 표기하는 방식입니다. 기저(base)라고 하는 다른 URL을 사용합니다.
 
 ```html
 <a href="./hammers.html">hammers</a>
